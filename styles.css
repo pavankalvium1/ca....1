@@ -1,0 +1,53 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 1rem;
+  }
+
+  nav {
+    display: flex;
+    align-items: center;
+  }
+  
+  ol {
+    list-style:inside
+    margin:0;
+    padding: 0;
+  }
+  
+  li {
+    display: inline-block;
+    margin-right: 1rem;
+  }
+  
+  a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    text-size-adjust: 5px;
+  }
+  
+  
+  main {
+    padding: 1rem;
+  }
+  
+  section {
+    margin-bottom: 1rem;
+  }
+  
+  ab{
+    width:0%
+    height: 0%;
+  }
+  h1{
+margin: auto;
+  }
+
+ body{
+    background-color: gold;
+ }
